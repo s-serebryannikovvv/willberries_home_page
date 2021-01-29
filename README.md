@@ -1,9 +1,9 @@
 # willberries_home_page
 
 ## The project used:
--HTML
--CSS
--Java Script
+- HTML
+- CSS
+- Java Script
 ### Libraries:
--Bootstrap v5
--Swiper Slider JS
+- Bootstrap v5
+- Swiper Slider JS
